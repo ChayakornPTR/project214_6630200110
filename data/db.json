@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "fullName": "ufufuy",
+    "studentId": "663111",
+    "faculty": "aaaa",
+    "major": "lpplpp",
+    "school": "pppppppp"
+  },
+  "courses": [
+    {
+      "id": 1,
+      "code": "01999012",
+      "name": "Health for Life",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": 2,
+      "code": "01418223",
+      "name": "Data Science and Application Programs",
+      "credits": 3,
+      "grade": "B+"
+    },
+    {
+      "id": 3,
+      "code": "01418231",
+      "name": "Data Structures and Algorithms",
+      "credits": 3,
+      "grade": "C"
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "code": "kuyisus",
+      "name": "aann",
+      "credits": 500,
+      "grade": "10"
+    },
+    {
+      "id": 5,
+      "code": "01418233",
+      "name": "Computer Architecture",
+      "credits": 3,
+      "grade": "B"
+    },
+    {
+      "id": 6,
+      "code": "01174231",
+      "name": "Introduction to Recreation",
+      "credits": 2,
+      "grade": "B+"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "vue-profile-app",
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "json-server": "json-server --watch data/db.json --port 3000"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "gsap": "^3.11.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "json-server": "^0.17.0"
+  }
+}
