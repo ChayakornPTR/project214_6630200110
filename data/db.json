@@ -1,10 +1,10 @@
 {
   "profile": {
-    "fullName": "ufufuy",
-    "studentId": "663111",
-    "faculty": "aaaa",
-    "major": "lpplpp",
-    "school": "pppppppp"
+    "fullName": "นายชยากร พุทธรักษา",
+    "studentId": "6630200110",
+    "faculty": "วิทยาศาสตร์",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "ปราจิณราษฏรอำรุง"
   },
   "courses": [
     {
@@ -26,15 +26,14 @@
       "code": "01418231",
       "name": "Data Structures and Algorithms",
       "credits": 3,
-      "grade": "C"
+      "grade": "C+"
     },
     {
       "id": 4,
-      "index": 4,
-      "code": "kuyisus",
-      "name": "aann",
-      "credits": 500,
-      "grade": "10"
+      "code": "01418211",
+      "name": "Software Construction",
+      "credits": 3,
+      "grade": "C"
     },
     {
       "id": 5,
